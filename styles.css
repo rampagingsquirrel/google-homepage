@@ -68,5 +68,9 @@ li {
     margin-top: 30px;
     width: 450px;
     height: 30px;
-    border-radius: 20px;
+}
+
+#searchbar-container {
+
+    width: 833px;
 }
